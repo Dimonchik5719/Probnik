@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\bin\Debug\Probnik.exe.config
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\bin\Debug\Probnik.exe
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\bin\Debug\Probnik.pdb
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.Form1.resources
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.exe
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.pdb
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.Form2.resources
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.Form3.resources
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.Form4.resources
+C:\Users\Дмитрий\source\repos\Probnik\Probnik\obj\Debug\Probnik.Form5.resources
